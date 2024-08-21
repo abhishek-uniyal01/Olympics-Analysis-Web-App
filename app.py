@@ -5,7 +5,6 @@ import plotly.express as px
 import matplotlib.pyplot as plt
 import seaborn as sns
 import plotly.graph_objects as go
-import scipy
 
 
 df = pd.read_csv('athlete_events.csv')
